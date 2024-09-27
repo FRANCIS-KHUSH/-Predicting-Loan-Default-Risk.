@@ -31,10 +31,3 @@ Financial institutions face significant challenges in assessing the creditworthi
 4. **Actionable Insights:**
    - Key features impacting loan default risk were identified, such as credit history and loan amount.
    - Recommendations were made on how financial institutions can integrate these models into their loan approval processes to enhance decision-making and risk management.
-
-## Files in Repository
-
-- `loan_default_prediction.ipynb`: Jupyter notebook containing the complete analysis, including data preprocessing, model building, evaluation, and insights.
-- `xgb_model.json`: Trained XGBoost model saved for future use.
-- `scaler.pkl`: Saved `MinMaxScaler` for consistent feature scaling during deployment.
-- `README.md`: Project overview and documentation (this file).
